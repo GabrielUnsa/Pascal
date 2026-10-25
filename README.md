@@ -4,16 +4,20 @@ Proyectos académicos en Pascal sobre representación de números en distintas b
 
 Estos ejercicios prácticos fueron realizados durante el cursado de diversas materias mientras estudiaba la **Licenciatura en Análisis de Sistemas (Plan 2010)** de la **Universidad Nacional de Salta**.
 
-**Materia:** ______________________________
+**Materia: Programacion Numerica**
 
 ## Contenido
 
-- [Estructura](#estructura)
-- [Conversor de bases](#conversor-de-bases)
-- [Normalización de números](#normalización-de-números)
-- [Compilación y uso](#compilación-y-uso)
-- [Estado y validación](#estado-y-validación)
-- [Licencia](#licencia)
+- [Pascal — Cálculo numérico y conversión de bases](#pascal--cálculo-numérico-y-conversión-de-bases)
+  - [Contenido](#contenido)
+  - [Estructura](#estructura)
+  - [Conversor de bases](#conversor-de-bases)
+  - [Normalización de números](#normalización-de-números)
+  - [Compilación y uso](#compilación-y-uso)
+    - [Requisitos](#requisitos)
+    - [Flujo de la consola](#flujo-de-la-consola)
+  - [Estado y validación](#estado-y-validación)
+  - [Licencia](#licencia)
 
 ## Estructura
 
